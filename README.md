@@ -1,6 +1,6 @@
 # spicetify-cli homebrew tap
 
-*[spicetify-cli](https://github.com/spicetify/spicetify-cli)'s homebrew tap*
+Homebrew tap for [spicetify-cli](https://github.com/spicetify/spicetify-cli)
 
 ## Installation
 
@@ -8,17 +8,9 @@
 brew install spicetify/tap/spicetify-cli
 ```
 
-for more detailed guide see [wiki](https://spicetify.app/docs/advanced-usage/installation#homebrew-or-linuxbrew)
+For a more detailed guide, see the [wiki](https://spicetify.app/docs/advanced-usage/installation#homebrew-or-linuxbrew)
 
-## :warning: :warning: **The brew version may be outdated** :warning: :warning:
-
-After installing don't forget to update it to the latest version using:
-
-```sh
-spicetify upgrade
-```
-
-Make sure you run this after upgrading:
+Make sure you run this after installing or upgrading:
 
 ```sh
 spicetify restore backup apply
