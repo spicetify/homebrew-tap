@@ -7,7 +7,7 @@ class SpicetifyCli < Formula
   head "https://github.com/spicetify/spicetify-cli"
   sha256 "a2d4c36070193f6838ac48cccf920f0a3c793876294bc3f1ed64c6a603a384db"
 
-  depends_on "go" => "1.18"
+  depends_on "go" => "1.19"
 
   def install
     ENV["GOPATH"] = buildpath
