@@ -8,7 +8,7 @@
 brew install spicetify/tap/spicetify-cli
 ```
 
-for more detailed guide see [wiki](https://github.com/spicetify/spicetify-cli/wiki/Installation)
+for more detailed guide see [wiki](https://spicetify.app/docs/advanced-usage/installation#homebrew-or-linuxbrew)
 
 ## :warning: :warning: **The brew version may be outdated** :warning: :warning:
 
