@@ -10,6 +10,12 @@ brew install spicetify/tap/spicetify-cli
 
 For a more detailed guide, see the [wiki](https://spicetify.app/docs/advanced-usage/installation#homebrew-or-linuxbrew)
 
+## Updating
+
+```sh
+brew upgrade spicetify/tap/spicetify-cli
+```
+
 Make sure you run this after installing or upgrading:
 
 ```sh
