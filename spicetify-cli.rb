@@ -3,9 +3,9 @@ require "language/go"
 class SpicetifyCli < Formula
   desc "Command-line tool to customize Spotify client"
   homepage "https://github.com/spicetify/spicetify-cli"
-  url "https://github.com/spicetify/spicetify-cli/archive/v2.23.0.tar.gz"
+  url "https://github.com/spicetify/spicetify-cli/archive/v2.23.1.tar.gz"
   head "https://github.com/spicetify/spicetify-cli"
-  sha256 "bd88228a1b95fff5e0ffddad5bced0999f9e422931b5ee8c2fe9df17251de624"
+  sha256 "e6bfa0a691e32fb9eacd5e3f842db9f3f287524f905cf5a2910577f136ceba12"
 
   depends_on "go" => "1.19"
 
