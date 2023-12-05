@@ -5,7 +5,7 @@ class SpicetifyCli < Formula
   homepage "https://github.com/spicetify/spicetify-cli"
   url "https://github.com/spicetify/spicetify-cli/archive/v2.28.0.tar.gz"
   head "https://github.com/spicetify/spicetify-cli"
-  sha256 "ce64e45073c58f58efb401dbbe1ab01075137e16dae1e4809ac147304fcce78e"
+  sha256 "a8368857f9bf00cecf1d2e1491a9f390e663740032129827c8b1d2a9bec4680b"
 
   depends_on "go" => "1.19"
 
